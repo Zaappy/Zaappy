@@ -11,6 +11,6 @@ I am 18 years old and my pronouns are they/them.
 - Knows English and French.
 - Has 7 years of experience playing viola and 4 years with percussion.
 - Makes digital art.
-- Weezer enjoyer
+- Lisens to Weezer frequently.
 
 *OwO*
