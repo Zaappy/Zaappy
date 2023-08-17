@@ -1,13 +1,39 @@
-# 👋 Hello! Thanks for checking out my profile!
-My name is Stella, or online I go by Zappy / Zaappy / ProtoZappy.
+# Welcome to Zappyville
+```js
+const zappy = new Protogen();
 
-I am 18 years old and my pronouns are they/them.
+zappy.attributes = {
+  names: ['Zappy/ProtoZappy', 'Stella'],
+  age: 18,
+  currentOccupation: 'IT Intern at Boncom',
+  appleFan: true,
+  hobbies: [
+    'Drums/Percussion',
+    'Viola',
+    'Other music stuff',
+    'Digital art',
+    'Aviation',
+    'Public transit',
+  ],
 
-I know moderate amounts of JavaScript and a bit of Swift.
+  takeComputerScienceClass() {
+    return;
+  },
+  makeAnythingActuallyUseful() {
+    return;
+  },
+};
 
-## 🖌️ Other stuff about me:
-- Took 1 (one) Computer Science course in high school.
-- Knows English, French and Japanese.
-- Has 7 years of experience playing viola and 4 years with percussion.
-- Makes digital art.
-- Lisens to Weezer frequently.
+zappy.codeLanguages = [
+  'JavaScript',
+  'Swift'
+];
+
+zappy.languageLanguages = [
+  'English',
+  'Français',
+  '日本語'
+];
+
+// owo
+```
