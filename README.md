@@ -11,9 +11,10 @@ zappy.attributes = {
     'Drums/Percussion',
     'Viola',
     'Other music stuff',
+    'Vinyl record collecting',
     'Digital art',
     'Aviation',
-    'Public transit',
+    'Public transit'
   ],
 
   takeComputerScienceClass() {
