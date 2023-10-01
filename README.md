@@ -4,7 +4,7 @@ const zappy = new Protogen();
 
 zappy.attributes = {
   names: ['Zappy/ProtoZappy', 'Stella'],
-  age: 18,
+  age: 19,
   currentOccupation: 'IT Intern at Boncom',
   appleFan: true,
   hobbies: [
