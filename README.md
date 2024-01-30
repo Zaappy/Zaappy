@@ -2,11 +2,12 @@
 ```js
 const zappy = new Protogen();
 
+zappy.website = 'https://protozappy.art';
+
 zappy.attributes = {
   names: ['Zappy/ProtoZappy', 'Stella'],
   age: 19,
   currentOccupation: 'IT Intern at Boncom',
-  appleFan: true,
   hobbies: [
     'Drums/Percussion',
     'Viola',
@@ -16,16 +17,12 @@ zappy.attributes = {
     'Aviation',
     'Public transit'
   ],
-
-  takeComputerScienceClass() {
-    return;
-  },
-  makeAnythingActuallyUseful() {
-    return;
-  },
+  appleFan: true
 };
 
 zappy.codeLanguages = [
+  'HTML',
+  'CSS',
   'JavaScript',
   'Swift'
 ];
