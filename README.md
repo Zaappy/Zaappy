@@ -7,7 +7,7 @@ zappy.website = 'https://protozappy.art';
 zappy.attributes = {
   names: ['Zappy/ProtoZappy', 'Stella'],
   age: 19,
-  currentOccupation: 'IT Intern at Boncom',
+  currentOccupation: 'Junior System Administrator at Boncom',
   hobbies: [
     'Drums/Percussion',
     'Viola',
@@ -32,6 +32,4 @@ zappy.languageLanguages = [
   'Français',
   '日本語'
 ];
-
-// owo
 ```
