@@ -7,7 +7,7 @@ zappy.website = 'https://protozappy.art';
 zappy.attributes = {
   names: ['Zappy/ProtoZappy', 'Stella'],
   age: 19,
-  currentOccupation: 'Junior System Administrator at Boncom',
+  currentOccupation: 'Junior Systems Administrator at Boncom',
   hobbies: [
     'Drums/Percussion',
     'Viola',
