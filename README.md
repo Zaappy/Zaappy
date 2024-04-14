@@ -17,7 +17,7 @@ zappy.attributes = {
     'Aviation',
     'Public transit'
   ],
-  appleFan: true
+  appleEnthusiast: true
 };
 
 zappy.codeLanguages = [
