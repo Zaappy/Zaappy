@@ -1,21 +1,21 @@
-# Welcome to Zappyville
+# Hi welcome!
 ```js
-const zappy = new Protogen();
+const zappy = new Furry();
 
 zappy.website = 'https://protozappy.art';
 
 zappy.attributes = {
   names: ['Zappy/ProtoZappy', 'Stella'],
   age: 19,
-  currentOccupation: 'Junior Systems Administrator at Boncom',
+  currentOccupation: null,
   hobbies: [
-    'Drums/Percussion',
-    'Viola',
-    'Other music stuff',
-    'Vinyl record collecting',
     'Digital art',
-    'Aviation',
-    'Public transit'
+    'Web development',
+    'Drumset/Percussion',
+    'Viola',
+    'Music composition',
+    'Vinyl record-collecting',
+    'Urbanism/Cycling/Public transit'
   ],
   appleEnthusiast: true
 };
