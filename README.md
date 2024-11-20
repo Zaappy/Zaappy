@@ -6,8 +6,8 @@ zappy.website = 'https://protozappy.art';
 
 zappy.attributes = {
   names: ['Zappy/ProtoZappy', 'Stella'],
-  age: 19,
-  currentOccupation: null,
+  age: 20,
+  currentOccupation: ['Salad chef', 'IS student'],
   hobbies: [
     'Digital art',
     'Web development',
